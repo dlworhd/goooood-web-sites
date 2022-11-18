@@ -16,6 +16,7 @@
 * [[gyoogle] Tech Interview for developer 블로그](https://gyoogle.dev/blog/)
 * [[주짱] 객체지향프로그래밍 SOLID 원칙](https://velog.io/@juhwan9408/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-5%EC%9B%90%EC%B9%99-SOLID)
 * [[Integerous] 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
+* [[아라한사] 아라한사님의 JPA 레퍼런스 번역](http://arahansa.github.io/docs_spring/jpa.html#glossary)
 
 ## 뉴스/행사/채용
 

@@ -24,7 +24,7 @@
 * [[아라한사] JPA 레퍼런스 번역](http://arahansa.github.io/docs_spring/jpa.html#glossary)
 * [[PilhwanKim] 토비의 스프링 정리](https://github.com/PilhwanKim/toby_spring_practice)
 * [[Meet Coder Study] 이펙티브자바 스터디 정리](https://github.com/Meet-Coder-Study/book-effective-java)
-* 
+
 ## News
 
 * [[Geek News] 개발/기술/스타트업 뉴스 서비스](https://news.hada.io/)

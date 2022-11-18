@@ -17,6 +17,8 @@
 * [[주짱] 객체지향프로그래밍 SOLID 원칙](https://velog.io/@juhwan9408/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-5%EC%9B%90%EC%B9%99-SOLID)
 * [[Integerous] 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 * [[아라한사] JPA 레퍼런스 번역](http://arahansa.github.io/docs_spring/jpa.html#glossary)
+* [[PilhwanKim] 토비의 스프링 정리](https://github.com/PilhwanKim/toby_spring_practice)
+* [[Meet Coder Study] 이펙티브자바 스터디 정리](https://github.com/Meet-Coder-Study/book-effective-java)
 
 ## Spring
 

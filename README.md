@@ -15,7 +15,7 @@
 * [[주짱] 객체지향프로그래밍 SOLID 원칙](https://velog.io/@juhwan9408/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-5%EC%9B%90%EC%B9%99-SOLID)
 * [[sontulip] 데이터베이스는 어떻게 설계를 해야할까?](https://velog.io/@sontulip/how-to-db-design)
 
-# Git & github
+# Git & Github
 
 * [[Markdown] 테이블 생성](https://www.tablesgenerator.com/markdown_tables)
 * [[gayanvoice] 지역 별 Github 팔로워 순위](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/south_korea.md)

@@ -18,6 +18,7 @@
 * [[Awesome] 프론트엔드 개발자들을 위한 오픈 소스 정리](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [[gyoogle] Tech Interview for developer 블로그](https://gyoogle.dev/blog/)
 * [[주짱] 객체지향프로그래밍 SOLID 원칙](https://velog.io/@juhwan9408/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-5%EC%9B%90%EC%B9%99-SOLID)
+* [[sontulip] 데이터베이스는 어떻게 설계를 해야할까?](https://velog.io/@sontulip/how-to-db-design)
 
 # Java/Spring
 

@@ -14,6 +14,7 @@
 * [[gyoogle] Tech Interview for developer 블로그](https://gyoogle.dev/blog/)
 * [[주짱] 객체지향프로그래밍 SOLID 원칙](https://velog.io/@juhwan9408/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-5%EC%9B%90%EC%B9%99-SOLID)
 * [[sontulip] 데이터베이스는 어떻게 설계를 해야할까?](https://velog.io/@sontulip/how-to-db-design)
+* [[dabin] CS공부/세미나/기술인터뷰/로드맵/기술스펙](https://velog.io/@dabin/개발자-유용한-사이트-모음-CS공부세미나기술인터뷰로드맵기술스펙)
 
 # Git & Github
 

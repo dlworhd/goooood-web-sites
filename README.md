@@ -44,6 +44,7 @@
 * [[Seogeurim] 진정한 컴퓨터공학도가 되기 위한 우리들의 지식 정리 공간](https://github.com/Seogeurim/CS-study)
 * [[jeon3029] 알고리즘 입문(초보)를 위한 가이드 (1편) : 코딩테스트 기초지식](https://velog.io/@jeon3029/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%85%EB%AC%B8%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-1%ED%8E%B8-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9D)
 * [[loosie] 알고리즘 공부 방법 github 정리](https://github.com/loosie/algo_datastructure)
+* [[바킹독] 바킹독님의 알고리즘 정리 블로그](https://blog.encrypted.gg/)
 
 # ETC
 

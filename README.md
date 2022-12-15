@@ -1,4 +1,4 @@
-# Incruit/News
+# Job/News
 
 * [[Geek News] 개발/기술/스타트업 뉴스 서비스](https://news.hada.io/)
 * [[어썸데브] 기술/정보 블로그](https://awesome-devblog.netlify.app/)

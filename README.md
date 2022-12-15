@@ -1,10 +1,11 @@
-# News
+# Incruit/News
 
 * [[Geek News] 개발/기술/스타트업 뉴스 서비스](https://news.hada.io/)
 * [[어썸데브] 기술/정보 블로그](https://awesome-devblog.netlify.app/)
 * [[codenary] 기술 스택으로 채용 회사 검색 & 컨퍼런스 일정](https://www.codenary.co.kr/)
 * [[brave-people] 개발자 행사 정보](https://github.com/brave-people/Dev-Event)
 * [[jojoldu] 주니어 개발자 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+* [[groupby] 스타트업 합격하는 서류의 비밀..!](https://velog.io/@groupby/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%95%A9%EA%B2%A9%ED%95%98%EB%8A%94-%EC%84%9C%EB%A5%98%EC%9D%98-%EB%B9%84%EB%B0%80)
 
 # Development
 

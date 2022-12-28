@@ -49,6 +49,7 @@
 * [[loosie] 알고리즘 공부 방법 github 정리](https://github.com/loosie/algo_datastructure)
 * [[바킹독] 바킹독님의 알고리즘 정리 블로그](https://blog.encrypted.gg/)
 * [[망나니개발자] 신입 개발자 알고리즘 팁 정리 및 문제 추천](https://mangkyu.tistory.com/181)
+* [[Wonit] Wonit님의 개발 정리 블로그](https://wonit.tistory.com/)
 
 # ETC
 
